@@ -1,0 +1,191 @@
+1 .alter<v. 改变 ,改动 ,变更
+2 .burst<vi.n. 突然发生 ,爆裂
+3. dispose<vi. 除掉；处置；解决；处理 (of)
+4 .blast<n. 爆炸；气流 vi. 炸,炸掉
+5. consume<v. 消耗 ,耗尽
+6. split<v. 劈开；割裂；分裂 a.裂开的
+7. spit<v. 吐（唾液等）；唾弃
+8 .spill<v. 溢出 ,溅出,倒出
+9. slip<v. 滑动,滑落；忽略
+10.slide<v. 滑动 ,滑落 n. 滑动；滑面；幻灯片
+11. bacteria<n. 细菌
+12. breed<n. 种,品种 v. 繁殖 ,产仔
+13.budget<n. 预算 v. 编预算 ,作安排
+14.candidate<n. 候选人
+15.campus<n. 校园
+16.liberal<a. 慷慨的；丰富的；自由的
+17.transform<v. 转变 ,变革；变换
+18.transmit<v. 传播 ,播送；传递
+19.transplant<v. 移植
+20.transport<vt. 运输 ,运送 n. 运输 ,运输工具
+21.shift<v. 转移；转动；转变
+22.vary<v. 变化 ,改变；使多样化
+23.vanish<vi. 消灭 ,不见
+24.swallow<v. 吞下,咽下 n. 燕子
+25.suspicion<n. 怀疑 ,疑心
+26.suspicious<a. 怀疑的 ,可疑的
+27.mild<a. 温暖的 ,暖和的；温柔的 ,味淡的
+28.tender<a. 温柔的；脆弱的
+30.insignificant<a. 无意义的 ,无足轻重的；无价值的
+31.accelerate<vt. 加速 ,促进
+32.absolute<a. 绝对的 ,无条件的；完全的
+33.boundary<n. 分界线 ,边界
+34.brake<n. 刹车 ,制动器 v. 刹住（车）
+35.catalog<n. 目录（册） v. 编目
+36.vague<a. 模糊的 ,不明确的
+37.vain<n. 徒劳 ,白费
+38.extinct<a. 绝灭的 ,熄灭的
+39.extraordinary<a. 不平常的 ,特别的 ,非凡的
+40.extreme<a. 极度的 ,极端的 n. 极端 ,过分
+41.agent<n. 代理人 ,代理商；动因 ,原因
+42.alcohol<n. 含酒精的饮料 ,酒精
+43.appeal<n./vi. 呼吁 ,恳求
+44.appreciate<vt. 重视 ,赏识 ,欣赏
+45.approve<v. 赞成 ,同意 ,批准
+46.stimulate<vt. 刺激 ,激励
+47.acquire<vt. 取得 ,获得；学到
+48.accomplish<vt . 完成 ,到达；实行
+50.tide<n. 潮汐；潮流
+51.tidy<a. 整洁的 ,整齐的
+52.trace<vt. 追踪 ,找到 n. 痕迹 ,踪迹
+53.torture<n./vt. 拷打 ,折磨
+54.wander<vi. 漫游 ,闲逛
+57.preserve<v. 保护 ,保存 ,保持 ,维持
+61. abuse<v. 滥用 ,虐待；谩骂
+62. academic<a. 学术的；高等院校的；研究院的
+63. academy<n. （高等）专科院校；学会
+64. battery<n. 电池（组）
+65. barrier<n. 障碍；棚栏
+66. cargo<n. （船、飞机等装载的）货物
+67. career<n. 生涯 ,职业
+68. vessel<n. 船舶；容器 ,器皿；血管
+69. vertical<a. 垂直的
+70. oblige<v. 迫使 ,责成；使感激
+71. obscure<a. 阴暗 ,模糊
+72. extent<n. 程度 ,范围 ,大小 ,限度
+73. exterior<n. 外部 ,外表 a. 外部的 ,外表的
+74. external<a. 外部的 ,外表的 ,外面的
+75. petrol<n. 汽油
+76. petroleum<n. 石油
+77. delay<vt./n. 推迟 ,延误 ,耽搁
+78. decay<vi. 腐烂 ,腐朽
+79. decent<a. 像样的 ,体面的
+80. route<n. 路；路线；航线
+81. ruin<v. 毁坏 ,破坏 n. 毁灭 ,[pl.] 废墟
+82. sake<n. 缘故 ,理由
+83. satellite<n. 卫星
+84. scale<n. 大小 ,规模；等级；刻度
+85. temple<n. 庙宇
+86. tedious<a. 乏味道 ,单调的 ,
+87. tend<vi. 易于 ,趋向
+88. tendency<n. 趋向 ,趋势
+89. ultimate<a. 极端的 ,最大的 ,最终的 n. 极端
+90. undergo<v. 经历 ,遭受
+91. abundant<a. 丰富的 ,充裕的 ,大量的
+92. adopt<v. 收养；采用；采纳
+93. adapt<vi. 适应 ,适合；改编 ,改写 vt. 使适应
+94. bachelor<n. 学士 ,学士学位；单身汉
+95. casual<a. 偶然的 ,碰巧的；临时的；非正式的
+96. trap<n. 陷阱 ,圈套 v. 设陷阱捕捉
+97. vacant<a. 空的 ,未占用的
+98. vacuum<n. 真空 ,真空吸尘器
+99. oral<a. 口头的 ,口述的 ,口的
+100. optics<n. （单、复数同形）光学
+101. organ<n. 器官,风琴
+102. excess<n. 过分 ,过量 ,过剩
+103. expel<v. 驱逐 ,开除 ,赶出
+104. expend<v. 消费
+105. expenditure<n. 支出 ,消费；经费
+106. expense<n. 开销 ,费用
+107. expensive<a. 花钱多的；价格高贵的
+108. expand<v. 扩大,扩张；展开 ,膨胀
+109. expansion<n. 扩大 ,扩充；发展 ,膨胀
+110. private<a. 私人的 ,个人的
+111. individual<a. 个别的 ,单独的 n. 个人 ,个体
+112. personal<a. 个人的 ,私人的；亲自的
+114. personnel<n. [ 总称 ]人员 ,员工；人事部门
+115. the Pacific Ocean<太平洋
+116. the Atlantic Ocean<大西洋
+117. the Arctic Ocean<北冰洋
+118. the Antarctic Ocean<南冰洋
+119. grant<vt. 授予 ,同意 ,准予
+119. grand<a. 宏伟大 ,壮丽的 ,重大的
+120. invade<v. 侵入 ,侵略 ,侵袭
+121. acid<n. 酸,酸性物质 a. 酸的；尖刻的
+122. acknowledge<v. 承认；致谢
+123. balcony<n. 阳台
+124. calculate<vt. 计算 ,核算
+125. calendar<n. 日历 ,月历
+126. optimistic<a. 乐观
+127. optional<a. 可以任选的 ,非强制的
+128. outstanding<a. 杰出的 ,突出的 ,显著的
+129. export<n. 出口（物） v. 出口 ,输出
+130. import<n. 进口（物） v. 进口 ,输入
+131. impose<vt. 把...加强 (on)；采用 ,利用
+132. religion<n. 宗教 ,宗教信仰
+133. religious<a. 宗教的
+134. victim<n. 牺牲品 ,受害者
+135. video<n. 电视 ,视频 a. 电视的 ,录像的
+136. videotape<n. 录像磁带 v. 把...录在录像带上
+137. offend<v. 冒犯 ,触犯
+138. bother<v. 打搅 ,麻烦
+139. interfere<v. 干涉,干扰 ,妨碍
+140. internal<a. 内部的 ,国内的
+141. beforehand<ad. 预先 ,事先
+142. racial<a. 人种的种族的
+143. radiation<n. 放射物 ,辐射
+144. radical<a. 根本的；激进的
+145. range<n. 幅度,范围 v. （在某范围内）变动
+146. wonder<n. 惊奇 ,奇迹 v. 想知道 ,对...感到疑惑
+147. isolate<vt. 使隔离 ,使孤立
+148. issue<n. 问题 ,争论点；发行 ,（报刊）一期
+149. hollow<a. 空的,中空的 ,空虚道
+150. hook<n. 钩 vt. 钩住
+151. adequate<a. 适当地；足够
+152. adhere<vi. 粘附 ,附着；遵守 ,坚持
+153. ban<vt. 取缔 ,禁止
+154. capture<vt. 俘虏 ,捕获
+155. valid<a. 有效的 ,有根据的；正当的
+156. valley<n. 山谷 ,峡谷
+157. consistent<a. 坚固定；一致的 ,始终如一的
+158. continuous<a. 继续的 ,连续（不断）的
+159. continual<a. 不断地 ,频繁的
+160. explode<v. 爆炸；爆发；激增
+161. exploit<v. 剥削；利用 ,开采
+162. explore<v. 勘探
+163. explosion<n. 爆炸；爆发；激增
+164. explosive<a. 爆炸的；极易引起争论的
+165. remote<a. 遥远的 ,偏僻的
+166. removal<n. 除去 ,消除
+167. render<vt. 使得 ,致使
+168. precaution<n. 预防 ,防备 ,警惕
+169. idle<a. 懒散的 ,无所事事的
+170. identify<vt. 认出 ,鉴定
+171. identify<n. 身份；个性 ,特性
+172. poverty<n. 贫穷
+173. resistant<a. (to) 抵抗的 ,抗...的,耐...的
+174. resolve<vt. 解决；决定 ,决意
+175. barrel<n. 桶
+176. bargain<n. 便宜货 vi. 讨价还价
+178. coach<n. 教练；长途公共汽车
+179. code<n. 准则 ,法规 ,密码
+181. adult<n. 成年人
+182. advertise<v. 为...做广告
+183. advertisement<n. 广告
+184. agency<n. 代理商 ,经销商
+185. focus<v. （使）聚集 n. 焦点 ,中心 ,聚焦
+186. forbid<vt. 不许 ,禁止
+187. debate<n./v. 辩论 ,争论
+188. debt<n. 欠债
+189. decade<n. 十年
+190. enclose<vt. 围住；把 ...装入信封
+191. encounter<vt./n. 遭遇 ,遭到
+192. globe<n. 地球 ,世界；地球仪
+193. global<a. 全球的；总的
+194. scan<vt. 细看；扫描；浏览
+195. scandal<n. 丑事 ,丑闻
+196. significance<n. 意义；重要性
+197. subsequent<a. 随后的 ,后来的
+198. virtue<n. 美德 ,优点
+199. virtual<a. 实际上的 ,事实上的
+200. orient<vt. 使适应 ,(to, toward) 使朝向 n. 东方

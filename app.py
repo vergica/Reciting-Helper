@@ -22,6 +22,7 @@ def get_zh(w):
     for i in range(len(en)):
         if re.match(r'.*?\. \. \.', en[i].xpath("string(.)")) is None:
             d.append([en[i].xpath("string(.)"), zh[i].xpath("string(.)").encode('ISO-8859-1').decode('utf-8')])
+    print(d)
     return random.sample(d, 3)
 
 

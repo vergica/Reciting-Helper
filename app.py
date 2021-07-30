@@ -1,5 +1,5 @@
 from flask import Flask, render_template
-import getinfo.py
+import pck.getinfo
 app = Flask(__name__)
 
 

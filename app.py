@@ -2,7 +2,7 @@ from flask import Flask, render_template
 import random
 import re
 from lxml import etree
-import urllib.urlopen
+from urllib.request import urlopen
 app = Flask(__name__)
 
 

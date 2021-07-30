@@ -19,6 +19,8 @@ def get_zh(w):
     d = []
     en = html.xpath('//*[@id="sentenceSeg"]/div/div[2]/div[1]')
     zh = html.xpath('//*[@id="sentenceSeg"]/div/div[2]/div[2]')
+    print(en)
+    print(zh)
     for i in range(len(en)):
         if re.match(r'.*?\. \. \.', en[i].xpath("string(.)")) is None:
             d.append([en[i].xpath("string(.)"), zh[i].xpath("string(.)").encode('ISO-8859-1').decode('utf-8')])

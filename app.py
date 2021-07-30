@@ -21,21 +21,16 @@ def get_zh(w):
     zh = html.xpath('//*[@id="sentenceSeg"]/div/div[2]/div[2]')
     for i in range(len(en)):
         if re.match(r'.*?\. \. \.', en[i].xpath("string(.)")) is None:
-            try:
-                d.append([en[i].xpath("string(.)"), zh[i].xpath("string(.)").encode('ISO-8859-1').decode('utf-8')])
-            except Exception:
-                pass
+            d.append([en[i].xpath("string(.)"), zh[i].xpath("string(.)").encode('ISO-8859-1').decode('utf-8')])
     return random.sample(d, 3)
 
 
 @app.route('/')
 def index():
-    t = get_text()
-    z = get_zh(t[0])
     return render_template(
         'index.html',
-        text=t,
-        zhs=z
+        text=get_text(),
+        zhs=get_zh(t[0])
     )
 
 

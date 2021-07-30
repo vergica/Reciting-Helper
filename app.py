@@ -2,6 +2,7 @@ from flask import Flask, render_template
 import random
 import re
 from lxml import etree
+import urllib
 app = Flask(__name__)
 
 
@@ -16,15 +17,14 @@ def get_text():
 
 def get_zh(w):
     html = etree.parse("http://cn.bing.com/dict/search?q=" + w, etree.HTMLParser())
+    print("http://cn.bing.com/dict/search?q=" + w)
+    print(urlopen("http://cn.bing.com/dict/search?q=" + w).read())
     d = []
     en = html.xpath('//*[@id="sentenceSeg"]/div/div[2]/div[1]')
     zh = html.xpath('//*[@id="sentenceSeg"]/div/div[2]/div[2]')
-    print(en)
-    print(zh)
     for i in range(len(en)):
         if re.match(r'.*?\. \. \.', en[i].xpath("string(.)")) is None:
             d.append([en[i].xpath("string(.)"), zh[i].xpath("string(.)").encode('ISO-8859-1').decode('utf-8')])
-    print(d)
     return random.sample(d, 3)
 
 

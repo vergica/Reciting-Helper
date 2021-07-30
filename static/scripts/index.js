@@ -6,7 +6,7 @@ $(document).ready(function() {
 });
 var p = function() {
     myWindow=window.open("http://dict.youdao.com/dictvoice?type=1&audio=" + $("#word").text(),'','width=1,height=1');
-    setTimeout(() =>myWindow.close(), 2000);
+    setTimeout(() =>myWindow.close(), 3300);
 }
 var ri = function() {
     number = document.cookie.match("number=(.*)")

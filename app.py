@@ -1,17 +1,15 @@
 from flask import Flask, render_template
-import get
+import getinfo
 app = Flask(__name__)
 
 
 @app.route('/')
 def index():
     t = get.get_text()
-    print(t[0])
-    print(get.get_zh(t[0]))
     return render_template(
         'index.html',
         text=t,
-        zhs=get.get_zh(t[0])
+        zhs=getinfo.get_zh(t[0])
     )
 
 

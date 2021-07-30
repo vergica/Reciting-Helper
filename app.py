@@ -27,9 +27,10 @@ def get_zh(w):
 
 @app.route('/')
 def index():
+    t = get_text()
     return render_template(
         'index.html',
-        text=get_text(),
+        text=t,
         zhs=get_zh(t[0])
     )
 

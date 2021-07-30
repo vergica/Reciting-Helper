@@ -5,11 +5,11 @@ app = Flask(__name__)
 
 @app.route('/')
 def index():
-    t = get.get_text()
+    t = pck.getinfo.get_text()
     return render_template(
         'index.html',
         text=t,
-        zhs=getinfo.get_zh(t[0])
+        zhs=pck.getinfo.get_zh(t[0])
     )
 
 

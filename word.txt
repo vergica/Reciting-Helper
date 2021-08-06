@@ -1,8 +1,8 @@
-178. coach n. 教练；长途公共汽车
-179. code n. 准则 ,法规 ,密码
-181. adult n. 成年人
-182. advertise v. 为...做广告
-183. advertisement n. 广告
+178. coach <n. 教练；长途公共汽车
+179. code <n. 准则 ,法规 ,密码
+181. adult <n. 成年人
+182. advertise <v. 为...做广告
+183. advertisement <n. 广告
 184. agency <n. 代理商 ,经销商
 185. focus <v. （使）聚集 n. 焦点 ,中心 ,聚焦
 186. forbid <vt. 不许 ,禁止

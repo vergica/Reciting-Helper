@@ -1,19 +1,4 @@
-178. coach <n. 教练；长途公共汽车
-179. code <n. 准则 ,法规 ,密码
-181. adult <n. 成年人
-182. advertise <v. 为...做广告
-183. advertisement <n. 广告
-184. agency <n. 代理商 ,经销商
-185. focus <v. （使）聚集 n. 焦点 ,中心 ,聚焦
-186. forbid <vt. 不许 ,禁止
-187. debate <n./v. 辩论 ,争论
-188. debt <n. 欠债
-189. decade <n. 十年
-190. enclose <vt. 围住；把 ...装入信封
 191. encounter <vt./n. 遭遇 ,遭到
-192. globe <n. 地球 ,世界；地球仪
-193. global <a. 全球的；总的
-194. scan <vt. 细看；扫描；浏览
 195. scandal <n. 丑事 ,丑闻
 196. significance <n. 意义；重要性
 197. subsequent <a. 随后的 ,后来的
@@ -26,13 +11,7 @@
 204. decline <v. 拒绝 ,谢绝；下降
 205. illusion <n. 错觉
 206. likelihood <n. 可能 ,可能性
-207. stripe <n. 条纹
-208. emphasize <vt. 强调 ,着重
-209. emotion <n. 情感 ,感情
-210. emotional <a. 感情的 ,情绪（上）的
-211. awful <a. 极坏的 ,威严的 ,可怕的
 212. awkward <a. 笨拙的 ,棘手的
-213. clue <n. 线索 ,提示
 214. collision <n. 碰撞 ,冲突
 215. device <n. 装置 ,设备
 216. devise <vt. 发明 ,策划 ,想出
